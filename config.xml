@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="org.brunocau.garconapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>GarconApp</name>
+    <description>
+        App para uso das garçonete dentro do restaurante
+    </description>
+    <author email="brunoalcau@gmail.com" href="http://cordova.io">
+        Bruno Caú
+    </author>
+    <preference name="Orientation" value="portrait"/>
+    <preference name="Fullscreen" value="true"/>
+    <preference name="BackgroundColor" value="0xf2f2f2ff"/>
+    <platform name="ios">
+        <preference name="DisallowOverscroll" value="true" />
+    </platform>
+
+</widget>
